@@ -1,0 +1,1 @@
+- [Android app identity](android-app-identity.md) — Keep package and local-storage identifiers stable for display-name-only renames.
